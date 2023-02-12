@@ -3,7 +3,7 @@
 <br />
 <p align="center">
     <a href="https://github.com/ArsenioMendes">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arsênio streak" src="https://github-readme-streak-stats.herokuapp.com?user=ArsenioMendes&theme=violet-dark&border_radius=5"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arsênio streak" src="https://github-readme-streak-stats.herokuapp.com?user=ArsenioMendes&theme=python-dark&border_radius=5"/>
     </a>
 </p>
 
