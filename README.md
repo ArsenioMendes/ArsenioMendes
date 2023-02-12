@@ -13,7 +13,7 @@
 </div>
 <br/>
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/ArsenioMendes">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arsênio streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ArsenioMendes&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
