@@ -1,11 +1,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arsênio <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1e7-1f1f7.png" width="30px"></h1>
-<h3 align="center">I think the tecnology will make the world a better place for everyone so i wanna be part of it</h3>
+<h3 align="center">I think the tecnology will make the world a better place for everyone</h3>
 <br />
 <p align="center">
     <a href="https://github.com/ArsenioMendes">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arsênio streak" src="https://github-readme-streak-stats.herokuapp.com?user=ArsenioMendes&theme=python-dark&border_radius=5"/>
     </a>
 </p>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="400px">
+</div>
 
 ## 🚀 Languages and Tools:
 <div>
@@ -16,8 +20,12 @@
   <img align="center" alt="ARS-pic" height="30" width="40" src="https://img.icons8.com/color/512/berserk.png">
 </div>
 <br/>
-## 🤳 Contact me:
+<h2> 🤳 Contact me:</h2>
 <div>
     <a href="https://www.instagram.com/mendes_ars/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-         badge&logo=instagram&logoColor=white" width="100px"></a>
     <a href="https://www.linkedin.com/in/ars%C3%AAniomendes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px"></a>
+</div>
+
+<div>
+    <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg">
 </div>
