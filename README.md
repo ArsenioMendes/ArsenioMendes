@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="400px">
+    <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="900px" height="600px">
 </div>
 
 ## 🚀 Languages and Tools:
