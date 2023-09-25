@@ -7,10 +7,6 @@
     </a>
 </p>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="900px" height="600px">
-</div>
-
 ## 🚀 Languages and Tools:
 <div>
   <img align="center" alt="ARS-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
