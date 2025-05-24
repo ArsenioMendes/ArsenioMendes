@@ -19,6 +19,6 @@
 <h2> 🤳 Contact me:</h2>
 <div>
     <a href="https://www.instagram.com/mendes_ars/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-         badge&logo=instagram&logoColor=white" width="100px"></a>
-    <a href="https://www.linkedin.com/in/ars%C3%AAniomendes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px"></a>
+    <a href="https://www.linkedin.com/in/arseniofilho/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px"></a>
 </div>
 
